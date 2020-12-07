@@ -15,7 +15,7 @@
 
 # Installation
 
-	`pip install stat-prob-distributions`
+`pip install stat-prob-distributions`
     or
     `pip install -i https://test.pypi.org/simple/ stat-prob-distributions`
     
