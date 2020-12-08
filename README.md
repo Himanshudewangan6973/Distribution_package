@@ -26,9 +26,9 @@ Gaussian and Binomial distributions - **"<ins>stat-prob-distributions 0.1</ins>"
 ```
     
 ## Usage
-- ```from stat_prob_distribution import Gaussian, Binomial
-Gaussian(a, b)
-Binomial(.a, b)```
+```from stat_prob_distribution import Gaussian, Binomial```
+```Gaussian(a, b)```
+```Binomial(.a, b)```
     
 # Attributes:
 
